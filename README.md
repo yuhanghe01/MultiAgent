@@ -7,3 +7,4 @@
 
 # Relevant Researchers
 1. Prof. Kate Larson. [homepage](https://cs.uwaterloo.ca/~klarson/index.html)
+2. Yaodong Yang. [homepage](https://www.yangyaodong.com/)
